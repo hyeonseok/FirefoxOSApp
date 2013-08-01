@@ -1,0 +1,15 @@
+{
+    "version": "0.1",
+    "description": "http://hyeonseok.com/",
+    "name": "Hyeonseok.com",
+    "installs_allowed_from": ["*"],
+    "launch_path": "http://hyeonseok.com/",
+    "developer": {
+        "name": "Hyeonseok Shin",
+        "url": "http://hyeonseok.com/"
+    },
+    "icons": {
+        "57": "http://hyeonseok.com/apple-touch-icon.png",
+        "128": "http://hyeonseok.com/apple-touch-icon.png"
+    }
+}
