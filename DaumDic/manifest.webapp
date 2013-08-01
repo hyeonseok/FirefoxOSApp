@@ -1,0 +1,23 @@
+{
+    "version": "1.0",
+    "name": "DaumDic",
+    "installs_allowed_from": ["*"],
+    "launch_path": "http://dic.daum.net/",
+    "developer": {
+        "name": "Daum",
+        "url": "http://dic.daum.net/"
+    },
+    "icons": {
+        "114": "/dic_ios.png"
+    },
+    "locales": {
+        "en": {
+            "description": "Daum Dictionary"
+        },
+        "ko": {
+            "description": "다음 사전"
+        }
+    },
+    "default_locale": "en",
+    "description": "Daum Dictionalry. http://dic.daum.net/"
+}
